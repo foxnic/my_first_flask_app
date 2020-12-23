@@ -9,4 +9,4 @@ To run the app:
 - run 'flask run'
 - copy the URL that is printed in the terminal ,and paste it into a browser
 
-![](first_flask_app_screenshot)
+![](first_flask_app_screenshot.png)
